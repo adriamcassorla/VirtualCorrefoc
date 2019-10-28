@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%% CORREFOC DEMONSTRATION %%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%% Exam number: Y3868732 %%%%%%
+%%%% Adria M. Cassorla %%%%%%%%%%
 
 Fs = 44100; % Sampling frequency
 Seconds = 60*10; % Demonstration length
